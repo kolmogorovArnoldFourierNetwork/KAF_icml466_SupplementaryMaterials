@@ -39,10 +39,10 @@
         <td></td>
         <td></td>
         <td><b>KAF</b></td>
-        <td>12.0M</td>
-        <td>0.63G</td>
-        <td>91.72</td>
-        <td>91.88</td>
+        <td><b>12.0M<b></td>
+        <td><b>0.63G<b></td>
+        <td><b>91.72<b></td>
+        <td><b>91.88<b></td>
       </tr>
       <tr>
         <td></td>
@@ -84,10 +84,10 @@
         <td></td>
         <td></td>
         <td><b>KAF</b></td>
-        <td>18.8M</td>
-        <td>4.2G</td>
-        <td>64.7</td>
-        <td>65.0</td>
+        <td><b>18.8M<b></td>
+        <td><b>4.2G<b></td>
+        <td><b>64.7<b></td>
+        <td<b>65.0<b></td>
       </tr>
       <tr>
         <td></td>
@@ -129,10 +129,10 @@
         <td></td>
         <td></td>
         <td><b>KAF</b></td>
-        <td>5.9M</td>
-        <td>1.12G</td>
-        <td>73.2</td>
-        <td>73.5</td>
+        <td><b>5.9M<b></td>
+        <td><b>1.12G<b></td>
+        <td><b>73.2<b></td>
+        <td><b>73.5<b></td>
       </tr>
       <tr>
         <td></td>
@@ -174,10 +174,10 @@
         <td></td>
         <td></td>
         <td><b>KAF</b></td>
-        <td>1.4M</td>
-        <td>0.15G</td>
-        <td>53.8</td>
-        <td>54.2</td>
+        <td><b>1.4M<b></td>
+        <td><b>0.15G<b></td>
+        <td><b>53.8<b></td>
+        <td><b>54.2<b></td>
       </tr>
       <tr>
         <td></td>
