@@ -72,7 +72,7 @@
         <td>-</td>
       </tr>
       <tr>
-        <td>MLP Mixer/S</td>
+        <td>MLP_Mixer/S</td>
         <td>ImageNet1k</td>
         <td>MLP</td>
         <td>18.2M</td>
@@ -162,7 +162,7 @@
         <td>-</td>
       </tr>
       <tr>
-        <td>MLP KAN(Deit)</td>
+        <td>MLP_KAN (Deit)</td>
         <td>Cifar100</td>
         <td>MLP</td>
         <td>1.3M</td>
@@ -182,7 +182,7 @@
       <tr>
         <td></td>
         <td></td>
-        <td><b>KAN</b></td>
+        <td>KAN</td>
         <td>1.9M</td>
         <td>0.19G</td>
         <td>51.2</td>
