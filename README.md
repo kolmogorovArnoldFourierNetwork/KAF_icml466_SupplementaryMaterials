@@ -284,7 +284,7 @@
   </table>
 </div>
 
-## Table 2: Noise Robustness Experiment Results (Corrected High-Frequency Noise Scenario)
+## Table 3: Noise Robustness Experiment Results (Corrected High-Frequency Noise Scenario)
 
 <div style="display: flex; justify-content: center;">
   <table>
