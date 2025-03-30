@@ -87,7 +87,7 @@
         <td><b>18.8M<b></td>
         <td><b>4.2G<b></td>
         <td><b>64.7<b></td>
-        <td<b>65.0<b></td>
+        <td></td><b>65.0<b></td>
       </tr>
       <tr>
         <td></td>
