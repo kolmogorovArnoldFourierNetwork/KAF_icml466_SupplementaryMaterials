@@ -1,16 +1,16 @@
 # KAF_icml466_SupplementaryMaterials
 
-## Figure 1: KAF overall framework description
+## Figure s1: KAF overall framework description
 <div style="text-align: center;">
   <img src="52f6809f27580c5ea8f3fd07300cd9e.png" alt="Updated Figure 2">
 </div>
 
-## Figure 2: Compare two models : KAF/MLP  (Updated Figure 1)
+## Figure s2: Compare two models : KAF/MLP  (Updated Figure 1)
 <div style="text-align: center;">
   <img src="d606489092e79771354d571860fd459.png" alt="Updated picture of the knowledge graph">
 </div>
 
-## Table 1: Comparison of Experiment 4.2 after regularization is turned on
+## Table s1: Comparison of Experiment 4.2 after regularization is turned on
 
 <div style="display: flex; justify-content: center;">
   <table>
@@ -210,7 +210,7 @@
   </table>
 </div>
 
-## Table 2: Experiment 4.1 t-test results of visual dataset
+## Table s2: Experiment 4.1 t-test results of visual dataset
 
 <div style="display: flex; justify-content: center;">
   <table border="1" cellpadding="8" cellspacing="0">
@@ -284,7 +284,7 @@
   </table>
 </div>
 
-## Table 3: Noise Robustness Experiment Results (Corrected High-Frequency Noise Scenario)
+## Table s3: Noise Robustness Experiment Results (Corrected High-Frequency Noise Scenario)
 
 <div style="display: flex; justify-content: center;">
   <table>
