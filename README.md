@@ -65,7 +65,7 @@
       <tr>
         <td></td>
         <td></td>
-        <td><b>KAN</b></td>
+        <td>KAN</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -110,7 +110,7 @@
       <tr>
         <td></td>
         <td></td>
-        <td><b>KAN</b></td>
+        <td>KAN</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
@@ -155,7 +155,7 @@
       <tr>
         <td></td>
         <td></td>
-        <td><b>KAN</b></td>
+        <td>KAN</td>
         <td>-</td>
         <td>-</td>
         <td>-</td>
