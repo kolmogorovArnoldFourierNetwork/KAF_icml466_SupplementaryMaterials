@@ -209,3 +209,77 @@
     </tbody>
   </table>
 </div>
+
+## Table 2: Experiment 4.1 t-test results of visual dataset
+
+<div style="display: flex; justify-content: center;">
+  <table border="1" cellpadding="8" cellspacing="0">
+    <thead>
+      <tr>
+        <th>Dataset</th>
+        <th>KAF vs MLP (p-value)</th>
+        <th>KAN vs MLP (p-value)</th>
+        <th>KAF vs MLP (Significance)</th>
+        <th>KAN vs MLP (Significance)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>MNIST</td>
+        <td>0.03</td>
+        <td>0.08</td>
+        <td>Significant</td>
+        <td>Not Significant</td>
+      </tr>
+      <tr>
+        <td>EMNIST</td>
+        <td>0.02</td>
+        <td>0.10</td>
+        <td>Significant</td>
+        <td>Not Significant</td>
+      </tr>
+      <tr>
+        <td>KMNIST</td>
+        <td>0.04</td>
+        <td>0.09</td>
+        <td>Significant</td>
+        <td>Not Significant</td>
+      </tr>
+      <tr>
+        <td>CIFAR-10</td>
+        <td>0.01</td>
+        <td>0.07</td>
+        <td>Significant</td>
+        <td>Not Significant</td>
+      </tr>
+      <tr>
+        <td>CIFAR-100</td>
+        <td>0.02</td>
+        <td>0.12</td>
+        <td>Significant</td>
+        <td>Not Significant</td>
+      </tr>
+      <tr>
+        <td>SVHN</td>
+        <td>0.03</td>
+        <td>0.11</td>
+        <td>Significant</td>
+        <td>Not Significant</td>
+      </tr>
+      <tr>
+        <td>Bean Dataset</td>
+        <td>0.02</td>
+        <td>0.06</td>
+        <td>Significant</td>
+        <td>Significant</td>
+      </tr>
+      <tr>
+        <td>AG News</td>
+        <td>0.01</td>
+        <td>0.05</td>
+        <td>Significant</td>
+        <td>Significant</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
