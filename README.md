@@ -283,3 +283,106 @@
     </tbody>
   </table>
 </div>
+
+## Table 2: Noise Robustness Experiment Results (Corrected High-Frequency Noise Scenario)
+
+<div style="display: flex; justify-content: center;">
+  <table>
+    <thead>
+      <tr>
+        <th>Noise Type</th>
+        <th>Noise Level (SNR)</th>
+        <th>Architecture</th>
+        <th>Model</th>
+        <th>Test RMSE (Mean ± STD)</th>
+        <th>Training Time (s)</th>
+      </tr>
+    </thead>
+    <tbody>
+      <Gaussian Noise 10dB>
+      <tr>
+        <td rowspan="3">Gaussian Noise</td>
+        <td rowspan="3">10dB</td>
+        <td>FNO</td>
+        <td>MLP</td>
+        <td>1.23e-2 ± 8.7e-4</td>
+        <td><strong>0.8</strong></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>KAF</td>
+        <td>9.8e-3 ± 6.2e-4</td>
+        <td>0.9</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>KAN</td>
+        <td><strong>7.1e-3 ± 4.5e-4</strong></td>
+        <td>1.2</td>
+      </tr>
+      <Gaussian Noise 20dB>
+      <tr>
+        <td rowspan="3">Gaussian Noise</td>
+        <td rowspan="3">20dB</td>
+        <td>PINN</td>
+        <td>MLP</td>
+        <td>8.4e-3 ± 5.3e-4</td>
+        <td><strong>1.1</strong></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>KAF</td>
+        <td>6.7e-3 ± 4.1e-4</td>
+        <td>1.3</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>KAN</td>
+        <td><strong>5.2e-3 ± 3.2e-4</strong></td>
+        <td>1.6</td>
+      </tr>
+      <Impulse Noise>
+      <tr>
+        <td rowspan="3">Impulse Noise (20% Corruption)</td>
+        <td rowspan="3">-</td>
+        <td>FNO</td>
+        <td>MLP</td>
+        <td>1.5e-2 ± 1.1e-3</td>
+        <td><strong>0.8</strong></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>KAF</td>
+        <td>1.1e-2 ± 8.5e-4</td>
+        <td>0.9</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>KAN</td>
+        <td><strong>8.9e-3 ± 6.7e-4</strong></td>
+        <td>1.2</td>
+      </tr> 
+      <High-Frequency Noise>
+      <tr>
+        <td rowspan="3">High-Frequency Noise (Fourier Domain)</td>
+        <td rowspan="3">30dB</td>
+        <td>PINN</td>
+        <td>MLP</td>
+        <td>9.7e-3 ± 7.2e-4</td>
+        <td><strong>1.1</strong></td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>KAF</td>
+        <td><strong>5.5e-3 ± 3.8e-4</strong></td>
+        <td>1.2</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>KAN</td>
+        <td>5.8e-3 ± 4.1e-4</td>
+        <td>1.6</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
